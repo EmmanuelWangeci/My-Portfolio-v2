@@ -1,4 +1,4 @@
-# Portfolio V5  
+# My-Portfolio-v2  
 Hello everyone!  
 Let me introduce myself, I’m Emmanuel Wangeci. On this occasion, I’d like to share the portfolio website project that I’ve developed alongside my friend's help EkiZR.  
 

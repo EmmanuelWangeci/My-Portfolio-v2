@@ -1,6 +1,6 @@
 # Portfolio V5  
 Hello everyone!  
-Let me introduce myself, I’m Eki Zulfar Rachman. On this occasion, I’d like to share the portfolio website project that I’ve developed.  
+Let me introduce myself, I’m Emmanuel Wangeci. On this occasion, I’d like to share the portfolio website project that I’ve developed alongside my friend.  
 
 **Tech Stack used:**  
 - ReactJS  
